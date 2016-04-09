@@ -1,0 +1,81 @@
+_repo: Emma_158
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Austen, Jane
+    birthdate: 1775
+    deathdate: 1817
+    gutenberg_agent_id: '68'
+    url: http://www.gutenberg.org/2009/agents/68
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Austen
+description: "Emma, by Jane Austen, is a novel about youthful hubris and the perils\
+  \ of misconstrued romance. The novel was first published in December 1815. As in\
+  \ her other novels, Austen explores the concerns and difficulties of genteel women\
+  \ living in Georgian-Regency England; she also creates a lively comedy of manners\
+  \ among her characters.\nBefore she began the novel, Austen wrote, \"I am going\
+  \ to take a heroine whom no one but myself will much like.\" In the first sentence\
+  \ she introduces the title character as \"Emma Woodhouse, handsome, clever, and\
+  \ rich.\" Emma is spoiled, headstrong, and self-satisfied; she greatly overestimates\
+  \ her own matchmaking abilities; she is blind to the dangers of meddling in other\
+  \ people's lives; and her imagination and perceptions often lead her astray.\nThis\
+  \ novel has been adapted for several films, many television programs, and a long\
+  \ list of stage plays.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1994-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '158'
+  wikidata: Q223880
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Female friendship -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- GITenberg
+title: Emma
+url: http://www.gutenberg.org/ebooks/158
+wikipedia:
+- https://fi.wikipedia.org/wiki/Emma_(romaani)
+- https://fr.wikiquote.org/wiki/Emma
+- https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7_(%D8%B1%D9%85%D8%A7%D9%86)
+- https://vi.wikipedia.org/wiki/Emma_(ti%E1%BB%83u_thuy%E1%BA%BFt)
+- https://uk.wikipedia.org/wiki/%D0%95%D0%BC%D0%BC%D0%B0
+- https://el.wikipedia.org/wiki/%CE%88%CE%BC%CE%BC%CE%B1
+- https://pl.wikiquote.org/wiki/Emma
+- https://sv.wikipedia.org/wiki/Emma_(roman)
+- https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%AE%E0%A4%BE
+- https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9E_(%E5%B0%8F%E8%AA%AC)
+- https://pt.wikipedia.org/wiki/Emma
+- https://es.wikipedia.org/wiki/Emma
+- https://en.wikipedia.org/wiki/Emma_(novel)
+- https://ru.wikipedia.org/wiki/%D0%AD%D0%BC%D0%BC%D0%B0_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://te.wikipedia.org/wiki/%E0%B0%8E%E0%B0%AE%E0%B1%8D%E0%B0%AE%E0%B0%BE
+- https://ko.wikipedia.org/wiki/%EC%97%A0%EB%A7%88_(%EC%86%8C%EC%84%A4)
+- https://fr.wikipedia.org/wiki/Emma_(roman)
+- https://zh.wikipedia.org/wiki/%E6%84%9B%E7%91%AA
+- https://pl.wikipedia.org/wiki/Emma_(powie%C5%9B%C4%87)
+- https://da.wikipedia.org/wiki/Emma_(roman)
+- https://simple.wikipedia.org/wiki/Emma_(novel)
+- https://ru.wikiquote.org/wiki/%D0%AD%D0%BC%D0%BC%D0%B0_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://hu.wikipedia.org/wiki/Emma_(Jane_Austen-reg%C3%A9ny)
+- https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D9%85%D8%A7
+- https://nl.wikipedia.org/wiki/Emma_(roman)
+- https://id.wikipedia.org/wiki/Emma
+- https://sl.wikipedia.org/wiki/Emma
+- https://cs.wikipedia.org/wiki/Emma_(rom%C3%A1n)
+- https://de.wikipedia.org/wiki/Emma_(Roman)
+- https://en.wikiquote.org/wiki/Emma_(novel)
+- https://cy.wikipedia.org/wiki/Emma
+- https://bg.wikipedia.org/wiki/%D0%95%D0%BC%D0%B0
+- https://it.wikipedia.org/wiki/Emma_(romanzo)
+- https://no.wikipedia.org/wiki/Emma_(roman)
+- https://ca.wikipedia.org/wiki/Emma_(novel%C2%B7la)
+- https://he.wikipedia.org/wiki/%D7%90%D7%9E%D7%94_(%D7%A1%D7%A4%D7%A8)
